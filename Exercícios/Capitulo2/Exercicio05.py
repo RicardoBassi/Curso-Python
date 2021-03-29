@@ -4,7 +4,7 @@ from matplotlib.pyplot import *
 
 
 def implication(A,B):
-    if A == False or A and B:
+    if A == False or (A and B):
         return True
 
     else:
