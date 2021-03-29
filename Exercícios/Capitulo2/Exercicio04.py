@@ -1,8 +1,3 @@
-import numpy as np
-from scipy import *
-from matplotlib.pyplot import *
-
-
 u = 1.0 # you have to use a float here!
 uold = 10.
 for iteration in range(2000):

@@ -1,8 +1,3 @@
-import numpy as np
-from scipy import *
-from matplotlib.pyplot import *
-
-
 def half(p,q):
     carry = p and q
     sum_ = int((p or q) and not(p and q))

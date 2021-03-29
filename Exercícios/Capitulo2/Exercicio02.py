@@ -1,6 +1,4 @@
 import numpy as np
-from scipy import *
-from matplotlib.pyplot import *
 
 
 def f(n,x):

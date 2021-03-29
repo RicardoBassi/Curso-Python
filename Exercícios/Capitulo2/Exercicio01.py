@@ -1,6 +1,4 @@
 import numpy as np
-from scipy import *
-from matplotlib.pyplot import *
 
 #f(x) = x**2 + 0.25*x - 5
 

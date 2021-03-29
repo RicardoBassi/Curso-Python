@@ -1,8 +1,3 @@
-import numpy as np
-from scipy import *
-from matplotlib.pyplot import *
-
-
 def implication(A,B):
     if A == False or (A and B):
         return True

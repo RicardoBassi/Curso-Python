@@ -1,7 +1,4 @@
 import numpy as np
-from scipy import *
-from matplotlib.pyplot import *
-
 
 def f(x):
     return np.exp(1j*x)
